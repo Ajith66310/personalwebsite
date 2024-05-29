@@ -49,6 +49,6 @@ ul li{
 }
 @media(max-width:639px){
     #contact{
-        width:400;
+        width: 400px;
     }
 }
