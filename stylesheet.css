@@ -43,4 +43,7 @@ ul li{
     .card-body{
         margin-top:20px;
     }
+    #contact{
+        width:600;
+    }
 }
