@@ -47,3 +47,8 @@ ul li{
         width:600;
     }
 }
+@media(max-width:480px){
+    #contact{
+        width:400;
+    }
+}
