@@ -75,12 +75,5 @@ ul li{
     .card-body{
         margin-top:20px;
     }
-    #contact{
-        width:600;
-    }
 }
-@media(max-width:639px){
-    #contact{
-        width: 400px;
-    }
-}
+
